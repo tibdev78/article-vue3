@@ -1,4 +1,4 @@
-# todo-list-vue3
+# article-vue3
 
 ## Project setup
 ```
